@@ -1,4 +1,4 @@
-  @media(max-width : 1400px){
+ @media(max-width : 1200px){
     .nav-lang{
     display: none;
   }
@@ -91,6 +91,37 @@
     flex-grow: 1;
   }
 } 
+
+ @media(max-width : 800px ) 
+{
+  .hero-section {
+    display: none;
+  }
+  .box{
+     width : 250px;
+  }
+}
+@media(max-width : 500px){
+  .nav-search{
+   width : 250px;
+  }
+  .square1{
+    flex-grow: 1;
+    width : 250px;
+  }
+  .square2{
+    flex-grow: 1;
+    width : 250px;
+  }
+  .square3{
+    flex-grow: 1;
+    width : 250px;
+  }
+  .foot-panel2{
+    display: none;
+  }
+}
+  
 
 
   
