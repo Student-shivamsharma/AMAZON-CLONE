@@ -92,19 +92,5 @@
   }
 } 
 
- @media(max-width : 900px ) 
-{
-  .box{
-    flex-grow: 1;
-  }
-  .square1{
-    flex-grow: 1;
-  }
-  .square2{
-    flex-grow: 1;
-  }
-  .square3{
-    flex-grow: 1;
-  }
-}
+
   
